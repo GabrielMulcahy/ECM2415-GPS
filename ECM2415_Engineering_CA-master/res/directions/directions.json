@@ -1,0 +1,470 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJqzkwIkSkbUgRZ62Npj6PkP4",
+         "types" : [ "establishment", "library", "point_of_interest" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJM3ENhTukbUgReOFD-FPJ-t8",
+         "types" : [ "establishment", "park", "point_of_interest", "premise" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 50.7358465,
+               "lng" : -3.5269603
+            },
+            "southwest" : {
+               "lat" : 50.7229328,
+               "lng" : -3.5333272
+            }
+         },
+         "copyrights" : "Map data ??2018 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.8 km",
+                  "value" : 1845
+               },
+               "duration" : {
+                  "text" : "23 mins",
+                  "value" : 1369
+               },
+               "end_address" : "Cathedral Green, Exeter EX1 1HS, UK",
+               "end_location" : {
+                  "lat" : 50.7229328,
+                  "lng" : -3.5301555
+               },
+               "start_address" : "Stocker Rd, Exeter EX4 4PT, UK",
+               "start_location" : {
+                  "lat" : 50.7358465,
+                  "lng" : -3.5333272
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 140
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 101
+                     },
+                     "end_location" : {
+                        "lat" : 50.7351248,
+                        "lng" : -3.5318515
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eStocker Rd\u003c/b\u003e toward \u003cb\u003eRennes Dr\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ajttHhbqT?K@a@B[B[J_@JWLWN[b@o@PSZQ"
+                     },
+                     "start_location" : {
+                        "lat" : 50.7358465,
+                        "lng" : -3.5333272
+                     },
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "72 m",
+                        "value" : 72
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 53
+                     },
+                     "end_location" : {
+                        "lat" : 50.7345712,
+                        "lng" : -3.5323235
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003ePrince of Wales Rd\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "oettH`ypTHRNVRR\\NPFND"
+                     },
+                     "start_location" : {
+                        "lat" : 50.7351248,
+                        "lng" : -3.5318515
+                     },
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 357
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 250
+                     },
+                     "end_location" : {
+                        "lat" : 50.7319273,
+                        "lng" : -3.5310283
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003eHorseguards\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "abttH~{pTVuA`@qBBI@CBCBAFAf@M`@MTIHCHGBA@CBA@AB?B?B@D?BAD?DC`@GBA@C@C@EBI`@Cb@IZ?r@NvAz@"
+                     },
+                     "start_location" : {
+                        "lat" : 50.7345712,
+                        "lng" : -3.5323235
+                     },
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "31 m",
+                        "value" : 31
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 29
+                     },
+                     "end_location" : {
+                        "lat" : 50.7317533,
+                        "lng" : -3.5306773
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003eHorseguards\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "qqstH|spTb@eA"
+                     },
+                     "start_location" : {
+                        "lat" : 50.7319273,
+                        "lng" : -3.5310283
+                     },
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "60 m",
+                        "value" : 60
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 50
+                     },
+                     "end_location" : {
+                        "lat" : 50.7312543,
+                        "lng" : -3.5303872
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eHorseguards\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "mpstHvqpTHAbA]BEBEBEHG"
+                     },
+                     "start_location" : {
+                        "lat" : 50.7317533,
+                        "lng" : -3.5306773
+                     },
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "70 m",
+                        "value" : 70
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 53
+                     },
+                     "end_location" : {
+                        "lat" : 50.7306588,
+                        "lng" : -3.5300447
+                     },
+                     "html_instructions" : "Continue straight onto \u003cb\u003eThe Quadrangle\u003c/b\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "imstH|opTtBeA"
+                     },
+                     "start_location" : {
+                        "lat" : 50.7312543,
+                        "lng" : -3.5303872
+                     },
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 188
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 121
+                     },
+                     "end_location" : {
+                        "lat" : 50.7293274,
+                        "lng" : -3.5287991
+                     },
+                     "html_instructions" : "\u003cb\u003eThe Quadrangle\u003c/b\u003e turns slightly \u003cb\u003eright\u003c/b\u003e and becomes \u003cb\u003eHorseguards\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "sistHvmpTLFpAk@ZKnAg@HGHIJOFUDOBUHo@@Q"
+                     },
+                     "start_location" : {
+                        "lat" : 50.7306588,
+                        "lng" : -3.5300447
+                     },
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "15 m",
+                        "value" : 15
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 12
+                     },
+                     "end_location" : {
+                        "lat" : 50.7291904,
+                        "lng" : -3.5287725
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eHorseguards\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "iastH~epTJCNA"
+                     },
+                     "start_location" : {
+                        "lat" : 50.7293274,
+                        "lng" : -3.5287991
+                     },
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 257
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 192
+                     },
+                     "end_location" : {
+                        "lat" : 50.72723939999999,
+                        "lng" : -3.5273756
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eHowell Rd\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "m`stHxepTAU?M?A@O?OFQV]r@_@r@]h@SrBw@~AU"
+                     },
+                     "start_location" : {
+                        "lat" : 50.7291904,
+                        "lng" : -3.5287725
+                     },
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "29 m",
+                        "value" : 29
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 26
+                     },
+                     "end_location" : {
+                        "lat" : 50.7271042,
+                        "lng" : -3.5270239
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eHowell Rd\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "gtrtHb}oTZgA"
+                     },
+                     "start_location" : {
+                        "lat" : 50.72723939999999,
+                        "lng" : -3.5273756
+                     },
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 130
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 120
+                     },
+                     "end_location" : {
+                        "lat" : 50.7260105,
+                        "lng" : -3.5275037
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eLongbrook St\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ksrtHzzoTNBbAN|AXXTLZ"
+                     },
+                     "start_location" : {
+                        "lat" : 50.7271042,
+                        "lng" : -3.5270239
+                     },
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "65 m",
+                        "value" : 65
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 50
+                     },
+                     "end_location" : {
+                        "lat" : 50.7255395,
+                        "lng" : -3.5269603
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eNew N Rd\u003c/b\u003e/\u003cb\u003eB3183\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "qlrtHz}oT|AkB"
+                     },
+                     "start_location" : {
+                        "lat" : 50.7260105,
+                        "lng" : -3.5275037
+                     },
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 215
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 155
+                     },
+                     "end_location" : {
+                        "lat" : 50.7244412,
+                        "lng" : -3.5294644
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at \u003cb\u003eSidwell St\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "sirtHnzoTJd@H^`@jADLXv@DJFNBHHPBHBHHRBHHVHRDLt@tB@@"
+                     },
+                     "start_location" : {
+                        "lat" : 50.7255395,
+                        "lng" : -3.5269603
+                     },
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "45 m",
+                        "value" : 45
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 34
+                     },
+                     "end_location" : {
+                        "lat" : 50.7241151,
+                        "lng" : -3.5290753
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003eCathedral Yard\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "wbrtHbjpT`@i@\\a@"
+                     },
+                     "start_location" : {
+                        "lat" : 50.7244412,
+                        "lng" : -3.5294644
+                     },
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 121
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 87
+                     },
+                     "end_location" : {
+                        "lat" : 50.7232995,
+                        "lng" : -3.5300681
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eCathedral Yard\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "w`rtHvgpTd@~@BF`@z@z@fAH?PE"
+                     },
+                     "start_location" : {
+                        "lat" : 50.7241151,
+                        "lng" : -3.5290753
+                     },
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "10 m",
+                        "value" : 10
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 7
+                     },
+                     "end_location" : {
+                        "lat" : 50.7232843,
+                        "lng" : -3.5302082
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eCathedral Yard\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "s{qtH|mpTBZ"
+                     },
+                     "start_location" : {
+                        "lat" : 50.7232995,
+                        "lng" : -3.5300681
+                     },
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "40 m",
+                        "value" : 40
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 29
+                     },
+                     "end_location" : {
+                        "lat" : 50.7229328,
+                        "lng" : -3.5301555
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "o{qtHxnpTFC@?DCt@A"
+                     },
+                     "start_location" : {
+                        "lat" : 50.7232843,
+                        "lng" : -3.5302082
+                     },
+                     "travel_mode" : "WALKING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ajttHhbqT@m@Fw@Vw@\\s@t@cAZQHRb@j@n@VNDVuAd@{BDGJChBi@ROL?TEd@IBGDO`@Cb@IZ?r@NvAz@b@eAHAbA]FKLMtBeALFlBw@xAo@TYLe@LeA@QJCNAAU?O@_@FQV]fB}@|CkA~AUZgArAR|AXXTLZ|AkBTdAf@xAj@|AZx@\\bAv@vB~@kAh@fA`@z@z@fAZEBZFCFCt@A"
+         },
+         "summary" : "Howell Rd",
+         "warnings" : [
+            "Walking directions are in beta.    Use caution ??? This route may be missing sidewalks or pedestrian paths."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}
